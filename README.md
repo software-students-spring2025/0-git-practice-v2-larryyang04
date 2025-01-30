@@ -1,4 +1,4 @@
-# Article Link: [Article on DeepSeek]([text](https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/))
+# Article Link: [Article on DeepSeek](https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
 
 # My Thoughts:
 
